@@ -1,0 +1,2 @@
+# Tkinter_GUI_maker_for_personal_project
+Tkinter_GUI maker used on one of my projects. The project is about creating what I call a "Slitter's Arbor Assembly Management System". That is not open source as I am currently working on it and may plan on commercialize it or use internally in a company I worked for. If you are interested on it, send me a message. This Gui though is to create Tkinter easily, as having to recreate many Gui's is time consuming and thus I created this to help me on my journey. If this tool helps anyone, then I am happy.
