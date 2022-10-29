@@ -1,2 +1,29 @@
-# Tkinter_GUI_maker_for_personal_project
-Tkinter_GUI maker used on one of my projects. The project is about creating what I call a "Slitter's Arbor Assembly Management System". That is not open source as I am currently working on it and may plan on commercialize it or use internally in a company I worked for. If you are interested on it, send me a message. This Gui though is to create Tkinter easily, as having to recreate many Gui's is time consuming and thus I created this to help me on my journey. If this tool helps anyone, then I am happy.
+# README #
+
+This README would normally document whatever steps are necessary to get your application up and running.
+
+### What is this repository for? ###
+
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
